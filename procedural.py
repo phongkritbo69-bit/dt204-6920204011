@@ -11,3 +11,4 @@ print("จำนวนครั้งที่ใช้งาน", visits, "ค�
 print("อายุสมาชิก", months ,"เดือน")
 print("เสี่ยงเลิกใช้บริการ :", is_at_risk(visits, months))
 
+#test1
